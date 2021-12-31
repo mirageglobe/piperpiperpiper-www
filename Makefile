@@ -1,4 +1,3 @@
-
 # === targets
 
 # defaults
@@ -8,7 +7,7 @@ MENU := all clean test
 MENU += help readme
 
 # main
-MENU += dev build test deploy
+MENU += serve
 
 # load phony
 .PHONY: $(MENU)
@@ -19,9 +18,14 @@ MENU += dev build test deploy
 .DEFAULT_GOAL := help
 
 # # set default shell to use
-# SHELL := /bin/bash
+SHELL := /bin/bash
 
 # === check make version
+
+# enforce make 4+
+# ifeq ($(origin .RECIPEPREFIX), undefined)
+#   $(error This Make does not support .RECIPEPREFIX. Please use GNU Make 4.0 or later. Use `brew install make` and run `gmake`)
+# endif
 
 # sets all lines in the recipe to be passed in a single shell invocation
 .ONESHELL:
@@ -38,31 +42,20 @@ export
 
 ##@ Helpers
 
-help:												## display this help
+help:														## display this help
 	@awk 'BEGIN { FS = ":.*##"; printf "\nUsage:\n  make \033[36m<target>\033[0m\n"; } \
 		/^[a-zA-Z0-9_-]+:.*?##/ { printf "  \033[36m%-30s\033[0m %s\n", $$1, $$2; } \
 		/^##@/ { printf "\n\033[1m%s\033[0m\n", substr($$0, 5); } \
 		END { printf ""; }' $(MAKEFILE_LIST)
 
-readme:																									## show information and notes
+readme:													## show information and notes
 	# === information and notes
-	@touch README.md
-	@cat README.md
+	@touch README.md && cat README.md
 
 ##@ Menu
 
 # core commands
 
-dev:																	## run project in dev (as daemon if permits)
-	# === develop local
-
-build: build-init											## build project
-	# === build
-
-test: 																## test project
-	# === test
-	bats -r test/*
-	shellcheck src/*.sh
-
-deploy: 															## deploy files
-	# === deploy
+serve: 													## serve project
+	# === serve
+	python3 -m http.server 9000
