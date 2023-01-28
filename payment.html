@@ -11,11 +11,14 @@
         <br>
         <h2>Payment</h2>
         <p>
-          This is a one off payment for a standard job posting in Piperpiperpiper (USD$ 200)
+          This is a one off payment for a standard job posting in
+          Piperpiperpiper (USD$ 199).
         </p>
         <h3>Notes</h3>
         <p>
-          <small>creating an account with paypal is optional. if you have any issues please reach us at stabletransit+piperpiperpiper@gmail.com</small>
+          <small>creating an account with paypal is optional. please keep a
+            record of your invoice number. if you have any
+            issues please reach us at mirageglobe+piperpiperpiper@gmail.com</small>
         </p>
         <br>
         <div id="paypal-button-container"></div>
@@ -35,7 +38,7 @@
 
           createOrder: function(data, actions) {
             return actions.order.create({
-              purchase_units: [{"description":"Piperpiperpiper Standard Job Post","amount":{"currency_code":"USD","value":200}}]
+              purchase_units: [{"description":"Piperpiperpiper Standard Job Post","amount":{"currency_code":"USD","value":199}}]
             });
           },
 
