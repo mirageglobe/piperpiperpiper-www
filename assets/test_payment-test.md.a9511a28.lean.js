@@ -1,4 +1,4 @@
-import{C as n,c as o,H as r,w as i,Q as t,o as s,k as e}from"./chunks/framework.a7175731.js";const p=t("",6),l=e("div",{id:"paypal-button-container"},null,-1),c=e("pre",null,[e("code",null,`<script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"><\/script>
+import{C as n,c as o,H as r,w as i,Q as t,o as s,k as e}from"./chunks/framework.8048b864.js";const p=t("",6),l=e("div",{id:"paypal-button-container"},null,-1),c=e("pre",null,[e("code",null,`<script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"><\/script>
 <script>
   function initPayPalButton() {
     paypal.Buttons({
