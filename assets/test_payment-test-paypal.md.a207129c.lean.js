@@ -1,4 +1,4 @@
-import{C as n,c as o,H as r,w as i,Q as t,o as s,k as e}from"./chunks/framework.6fd48228.js";const p=t("",6),l=e("div",{id:"paypal-button-container"},null,-1),c=e("pre",null,[e("code",null,`<script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"><\/script>
+import{C as n,c as a,H as o,w as r,Q as i,k as e,o as p}from"./chunks/framework.1baa841b.js";const l=i("",6),s=e("div",{id:"paypal-button-container"},null,-1),c=e("pre",null,[e("code",null,`<script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"><\/script>
 <script>
   function initPayPalButton() {
     paypal.Buttons({
@@ -39,4 +39,4 @@ import{C as n,c as o,H as r,w as i,Q as t,o as s,k as e}from"./chunks/framework.
   }
   initPayPalButton();
 <\/script>
-`)],-1),u=t("",3),y=JSON.parse('{"title":"the following paypal snippet is not working - delete","description":"","frontmatter":{"layout":"doc","search":false},"headers":[],"relativePath":"test/payment-test.md","filePath":"test/payment-test.md"}'),d={name:"test/payment-test.md"},g=Object.assign(d,{setup(h){return(m,_)=>{const a=n("ClientOnly");return s(),o("div",null,[p,r(a,null,{default:i(()=>[l,c]),_:1}),u])}}});export{y as __pageData,g as default};
+`)],-1),u=e("details",{class:"details custom-block"},[e("summary",null,"develop/debug")],-1),f=JSON.parse('{"title":"the following paypal snippet is not working - delete","description":"","frontmatter":{"layout":"doc","search":false},"headers":[],"relativePath":"test/payment-test-paypal.md","filePath":"test/payment-test-paypal.md"}'),d={name:"test/payment-test-paypal.md"},g=Object.assign(d,{setup(h){return(m,y)=>{const t=n("ClientOnly");return p(),a("div",null,[l,o(t,null,{default:r(()=>[s,c]),_:1}),u])}}});export{f as __pageData,g as default};
