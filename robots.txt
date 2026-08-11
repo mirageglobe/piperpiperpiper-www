@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.mirageglobe.com/sitemap-index.xml
+Sitemap: https://www.piperpiperpiper.com/sitemap-index.xml
