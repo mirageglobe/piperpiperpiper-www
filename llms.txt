@@ -1,6 +1,6 @@
 # piperpiperpiper
 
-> Curated remote jobs for developers, designers and digital professionals. Jobs come from registered, health-checked sources; every listing keeps its source and a link back to the original post.
+> An AI-powered, behaviour-based job curator for people and AI agents: its curation rules are written and kept up to date by AI. It gathers open remote jobs from company boards and feeds; pay is given as one monthly USD figure (the original is kept), `applicant_location` says who may apply, and every listing keeps its source and a link back to the original post.
 
 ## Read the jobs
 
