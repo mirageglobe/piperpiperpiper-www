@@ -2,9 +2,9 @@
   "site": "https://www.piperpiperpiper.com",
   "about": "Curated remote jobs from registered sources. Each job keeps its source and a link back to the original post (url); page is this site's own listing page.",
   "schema_version": "v4",
-  "generated_at": "2026-10-18T17:25:56.625594",
+  "generated_at": "2026-10-18T18:32:19.457620",
   "window_days": 90,
-  "total_jobs": 45,
+  "total_jobs": 126,
   "jobs": [
     {
       "id": "c4639eb80e77479c",
@@ -36,7 +36,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/c4639eb80e77479c/"
     },
     {
@@ -69,7 +69,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/3596062e3def42ec/"
     },
     {
@@ -114,7 +114,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/2f84189c877e977c/"
     },
     {
@@ -146,7 +146,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/9bd12233a15d2a24/"
     },
     {
@@ -180,7 +180,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/308cf7b6a893c0d3/"
     },
     {
@@ -253,7 +253,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/65865ca85726558a/"
     },
     {
@@ -313,7 +313,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/797a7ec3f9dbfe3c/"
     },
     {
@@ -357,7 +357,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/ea6e12680ee7a3b8/"
     },
     {
@@ -397,7 +397,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/46107c68b85eeec7/"
     },
     {
@@ -440,7 +440,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/8651b9da54eed2b1/"
     },
     {
@@ -767,7 +767,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/b7c07e5cc39dc6c7/"
     },
     {
@@ -807,7 +807,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/226c4606744973b6/"
     },
     {
@@ -870,7 +870,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/cbc38ff8f3db1a31/"
     },
     {
@@ -902,7 +902,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/7ec4500baa7bb152/"
     },
     {
@@ -954,7 +954,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 2,
+      "seen_count": 3,
       "page": "https://www.piperpiperpiper.com/jobs/1a0f14c017746268/"
     },
     {
@@ -1008,7 +1008,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/db583d9c8adae49b/"
     },
     {
@@ -1061,7 +1061,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/6853e9ebded3d071/"
     },
     {
@@ -1102,7 +1102,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/1d304baf514c4d57/"
     },
     {
@@ -1139,7 +1139,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/6d73ac58e6832130/"
     },
     {
@@ -1185,7 +1185,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/0eadb4c59ce0954f/"
     },
     {
@@ -1239,7 +1239,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/35c21f46dedc74ed/"
     },
     {
@@ -1330,7 +1330,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/0b9f35dc334cb9ec/"
     },
     {
@@ -1423,7 +1423,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/2e1a02df396195b6/"
     },
     {
@@ -1458,7 +1458,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/8565e7b1140f5668/"
     },
     {
@@ -1540,7 +1540,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/0eccc7792e6b44a7/"
     },
     {
@@ -1577,7 +1577,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/d77b36ad83560eee/"
     },
     {
@@ -1614,7 +1614,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/9468e4f2d70b2c4d/"
     },
     {
@@ -1660,7 +1660,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/9912fe84cc34b49e/"
     },
     {
@@ -1706,7 +1706,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/14575246e4d1be4b/"
     },
     {
@@ -1739,7 +1739,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/0eb44087ae8ed2a4/"
     },
     {
@@ -1773,7 +1773,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/66f5fd6a41aa4e43/"
     },
     {
@@ -1808,7 +1808,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/1ad318cd405f7c74/"
     },
     {
@@ -1858,7 +1858,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/1777ce13b8e6669f/"
     },
     {
@@ -1893,7 +1893,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/0ec4fdc4d2c80dbd/"
     },
     {
@@ -1926,7 +1926,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/d813768f426bdabc/"
     },
     {
@@ -1974,7 +1974,7 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/b061f5a99e9fa4f1/"
     },
     {
@@ -2019,8 +2019,3826 @@
       "first_seen": "2026-10-18",
       "last_seen": "2026-10-18",
       "status": "open",
-      "seen_count": 1,
+      "seen_count": 2,
       "page": "https://www.piperpiperpiper.com/jobs/c53732fbb99775e3/"
+    },
+    {
+      "id": "549cf70ff5769d7b",
+      "source": "greenhouse",
+      "reference": "P76672",
+      "title": "accounting manager, gl operations & intercompany",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
+      "apply": "https://www.coinbase.com/careers/positions/8093264?gh_jid=8093264",
+      "posted": "2026-07-28",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 13862,
+        "max": 16308,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 166345-195700",
+          "currency": "USD",
+          "min": 166345,
+          "max": 195700,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "tax",
+        "remote-first",
+        "legal",
+        "accounting",
+        "audit",
+        "generative ai",
+        "finance"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 2,
+      "page": "https://www.piperpiperpiper.com/jobs/549cf70ff5769d7b/"
+    },
+    {
+      "id": "17dc01ad37c37b4e",
+      "source": "greenhouse",
+      "reference": "P77749",
+      "title": "accounting manager, tokenized equities",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8164862?gh_jid=8164862",
+      "apply": "https://www.coinbase.com/careers/positions/8164862?gh_jid=8164862",
+      "posted": "2026-08-28",
+      "remote": true,
+      "location": "remote - abu dhabi",
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": null,
+        "original": {
+          "raw": "AED 503500-530000",
+          "currency": "AED",
+          "min": 503500,
+          "max": 530000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "tax",
+        "remote-first",
+        "legal",
+        "accounting",
+        "audit",
+        "generative ai",
+        "finance",
+        "compliance"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - abu dhabi"
+        ],
+        "raw": "Remote - Abu Dhabi"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 2,
+      "page": "https://www.piperpiperpiper.com/jobs/17dc01ad37c37b4e/"
+    },
+    {
+      "id": "ec37808d477c564f",
+      "source": "greenhouse",
+      "reference": "P78172",
+      "title": "analyst, privacy (incident management)",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175",
+      "apply": "https://www.coinbase.com/careers/positions/8168175?gh_jid=8168175",
+      "posted": "2026-09-01",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 11277,
+        "max": 13267,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 135320-159200",
+          "currency": "USD",
+          "min": 135320,
+          "max": 159200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "security & privacy",
+        "remote-first",
+        "legal",
+        "incident response",
+        "generative ai",
+        "python",
+        "gdpr",
+        "finance"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 2,
+      "page": "https://www.piperpiperpiper.com/jobs/ec37808d477c564f/"
+    },
+    {
+      "id": "03efecbde36b219d",
+      "source": "remotive",
+      "reference": null,
+      "title": "senior ai engineer",
+      "company": "lemon.io",
+      "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "apply": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
+      "posted": "2026-09-18",
+      "remote": true,
+      "location": "northern america, latam, europe, apac",
+      "salary": null,
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "solid",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter",
+        "software engineering",
+        "platform engineering",
+        "product management",
+        "automation architect",
+        "vector databases",
+        "mlops",
+        "llm",
+        "solana",
+        "ui/ux design",
+        "rag",
+        "machine learning",
+        "devops"
+      ],
+      "blurb": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer:.",
+      "category": "other",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "northern america",
+          "latam",
+          "europe",
+          "apac"
+        ],
+        "raw": "Northern America, LATAM, Europe, APAC"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/03efecbde36b219d/"
+    },
+    {
+      "id": "5399ab872b331596",
+      "source": "remotive",
+      "reference": null,
+      "title": "senior .net full-stack developer",
+      "company": "lemon.io",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "apply": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+      "posted": "2026-09-17",
+      "remote": true,
+      "location": "northern america, latam, europe, apac",
+      "salary": null,
+      "tags": [
+        ".net",
+        "android",
+        "c",
+        "c#",
+        "c++",
+        "data science",
+        "fullstack",
+        "golang",
+        "ios",
+        "java",
+        "javascript",
+        "node.js",
+        "php",
+        "python",
+        "react",
+        "ruby/rails",
+        "scala",
+        "shopify",
+        "swift",
+        "ui/ux",
+        "wordpress",
+        "blockchain",
+        "ai/ml",
+        "automation",
+        "project management",
+        "react native",
+        "rust",
+        "unity",
+        "electron",
+        "spring",
+        "laravel",
+        "ethereum",
+        "graphic design",
+        "typescript",
+        "angular",
+        "firebase",
+        "data engineering",
+        "site reliability",
+        "symfony",
+        "startup",
+        "marketplace",
+        "next.js",
+        "flutter",
+        "software engineering",
+        "platform engineering",
+        "product management",
+        "mlops",
+        "llm",
+        "solana",
+        "ui/ux design",
+        "machine learning",
+        "devops"
+      ],
+      "blurb": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer:.",
+      "category": "engineering",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "northern america",
+          "latam",
+          "europe",
+          "apac"
+        ],
+        "raw": "Northern America, LATAM, Europe, APAC"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/5399ab872b331596/"
+    },
+    {
+      "id": "042734cae5f76522",
+      "source": "jobicy",
+      "reference": null,
+      "title": "director of security operations and engineering",
+      "company": "edb",
+      "url": "https://jobicy.com/jobs/155742-director-of-security-operations-and-engineering",
+      "apply": "https://jobicy.com/jobs/155742-director-of-security-operations-and-engineering",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "usa",
+      "salary": null,
+      "tags": [
+        "cybersecurity",
+        "full-time",
+        "director"
+      ],
+      "blurb": "A Little About Us. EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+      "category": "engineering",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "usa"
+        ],
+        "raw": "USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/042734cae5f76522/"
+    },
+    {
+      "id": "8db37bc1a76cebd3",
+      "source": "jobicy",
+      "reference": null,
+      "title": "machine learning engineer (governance ml platform)",
+      "company": "edb",
+      "url": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+      "apply": "https://jobicy.com/jobs/155746-machine-learning-engineer-governance-ml-platform",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "emea",
+      "salary": null,
+      "tags": [
+        "software engineering",
+        "full-time",
+        "any"
+      ],
+      "blurb": "A Little About Us. EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8db37bc1a76cebd3/"
+    },
+    {
+      "id": "c7dd2d95bdb9c387",
+      "source": "jobicy",
+      "reference": null,
+      "title": "account executive, enterprise - southern ca",
+      "company": "zscaler",
+      "url": "https://jobicy.com/jobs/155745-account-executive-enterprise-southern-ca",
+      "apply": "https://jobicy.com/jobs/155745-account-executive-enterprise-southern-ca",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "usa",
+      "salary": {
+        "min": 9771,
+        "max": 13958,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 117250-167500",
+          "currency": "USD",
+          "min": 117250,
+          "max": 167500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "sales",
+        "full-time",
+        "director",
+        "zero trust",
+        "agile"
+      ],
+      "blurb": "Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location.",
+      "category": "sales",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "usa"
+        ],
+        "raw": "USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/c7dd2d95bdb9c387/"
+    },
+    {
+      "id": "1dd1ffd0d0487bcf",
+      "source": "jobicy",
+      "reference": null,
+      "title": "account development representative ii",
+      "company": "samsara",
+      "url": "https://jobicy.com/jobs/155743-account-development-representative-ii",
+      "apply": "https://jobicy.com/jobs/155743-account-development-representative-ii",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "canada",
+      "salary": {
+        "min": 4797,
+        "max": 6208,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "CAD 81515-105490",
+          "currency": "CAD",
+          "min": 81515,
+          "max": 105490,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "sales",
+        "full-time",
+        "any",
+        "sustainability"
+      ],
+      "blurb": "Who we are. Samsara (NYSE: IOT) is the pioneer of the Connected Operations™ Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations.",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "canada"
+        ],
+        "raw": "Canada"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/1dd1ffd0d0487bcf/"
+    },
+    {
+      "id": "b96a96d22fea6367",
+      "source": "jobicy",
+      "reference": null,
+      "title": "ae/sr ae, sales",
+      "company": "edb",
+      "url": "https://jobicy.com/jobs/155740-ae-sr-ae-sales",
+      "apply": "https://jobicy.com/jobs/155740-ae-sr-ae-sales",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "usa",
+      "salary": null,
+      "tags": [
+        "sales",
+        "full-time",
+        "director"
+      ],
+      "blurb": "A Little About Us. EDB provides a data and AI platform that enables organizations to harness the full power of Postgres for transactional, analytical, and AI workloads across any cloud, anywhere. EDB empowers enterprises to control risk, manage costs and scale efficiently for a data and AI led world.",
+      "category": "sales",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "usa"
+        ],
+        "raw": "USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/b96a96d22fea6367/"
+    },
+    {
+      "id": "4a2172d7a16b7e07",
+      "source": "ashby",
+      "reference": null,
+      "title": "sales development representative (german speaking)",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/a6f454a8-d12c-49bc-8bf3-acb638e54165",
+      "apply": "https://jobs.ashbyhq.com/sanity/a6f454a8-d12c-49bc-8bf3-acb638e54165/application",
+      "posted": "2026-09-22",
+      "remote": true,
+      "location": "remote in germany",
+      "salary": null,
+      "tags": [
+        "sales",
+        "4.4 sales development",
+        "fulltime",
+        "salesforce",
+        "shopify",
+        "go"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in germany"
+        ],
+        "raw": "Remote in Germany"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/4a2172d7a16b7e07/"
+    },
+    {
+      "id": "788e07aa9d4ac466",
+      "source": "ashby",
+      "reference": null,
+      "title": "director, support engineering",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/a3fd76c3-9382-4b1d-b92d-077b07e530c8",
+      "apply": "https://jobs.ashbyhq.com/sanity/a3fd76c3-9382-4b1d-b92d-077b07e530c8/application",
+      "posted": "2026-09-17",
+      "remote": true,
+      "location": "remote in europe",
+      "salary": null,
+      "tags": [
+        "customer solutions",
+        "customer support",
+        "fulltime",
+        "shopify",
+        "figma",
+        "customer success"
+      ],
+      "blurb": "We're looking for an experienced engineering leader to manage and grow the Support Engineering function at Sanity. This is a high-impact role at the intersection of technical depth and customer obsession. You'll lead the team that helps developers and enterprise customers unlock the full power of Sanity's platform, while feeding critical insights back into the product and engineering org.",
+      "category": "support",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in europe"
+        ],
+        "raw": "Remote in Europe"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/788e07aa9d4ac466/"
+    },
+    {
+      "id": "f0e0db12fec31965",
+      "source": "ashby",
+      "reference": null,
+      "title": "solutions engineer, presales - senior to staff level (us)",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/4f892238-04a5-442e-ab36-7f1f60010abf",
+      "apply": "https://jobs.ashbyhq.com/sanity/4f892238-04a5-442e-ab36-7f1f60010abf/application",
+      "posted": "2026-08-04",
+      "remote": true,
+      "location": "remote in the united states",
+      "salary": null,
+      "tags": [
+        "customer solutions",
+        "customer solutions pre-sales",
+        "fulltime",
+        "shopify",
+        "figma",
+        "javascript"
+      ],
+      "blurb": "We have several roles open, ranging from Senior to Staff level. The final level will be determined during the interview process. At Sanity.io , we’re building the future of AI-powered Content Operations.",
+      "category": "sales",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states"
+        ],
+        "raw": "Remote in the United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/f0e0db12fec31965/"
+    },
+    {
+      "id": "b0b2fa5796b16b35",
+      "source": "ashby",
+      "reference": null,
+      "title": "software engineering manager, sdk",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/3123829f-af23-41d8-937b-231d82ff7a91",
+      "apply": "https://jobs.ashbyhq.com/sanity/3123829f-af23-41d8-937b-231d82ff7a91/application",
+      "posted": "2026-08-19",
+      "remote": true,
+      "location": "remote in the united states",
+      "salary": null,
+      "tags": [
+        "product",
+        "engineering",
+        "fulltime",
+        "shopify",
+        "go",
+        "typescript",
+        "figma",
+        "distributed teams",
+        "node.js",
+        "partnerships"
+      ],
+      "blurb": "At Sanity.io , we're building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "product",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states"
+        ],
+        "raw": "Remote in the United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/b0b2fa5796b16b35/"
+    },
+    {
+      "id": "1cacc8b6ac053af9",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior web & visual designer",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a",
+      "apply": "https://jobs.ashbyhq.com/sanity/3c824a28-81be-4281-a211-2a30b785c66a/application",
+      "posted": "2026-09-04",
+      "remote": true,
+      "location": "remote in the united states",
+      "salary": null,
+      "tags": [
+        "marketing",
+        "brand marketing",
+        "fulltime",
+        "shopify",
+        "digital marketing",
+        "figma",
+        "prototyping",
+        "javascript",
+        "seo",
+        "visual design",
+        "frontend",
+        "graphic design"
+      ],
+      "blurb": "At Sanity.io , we're building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "marketing",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states"
+        ],
+        "raw": "Remote in the United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/1cacc8b6ac053af9/"
+    },
+    {
+      "id": "e605fa9527ecbfc4",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior support engineer, eu",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/996c77df-0679-4469-aabe-ebead62a4f31",
+      "apply": "https://jobs.ashbyhq.com/sanity/996c77df-0679-4469-aabe-ebead62a4f31/application",
+      "posted": "2026-08-27",
+      "remote": true,
+      "location": "remote in the uk",
+      "salary": null,
+      "tags": [
+        "customer solutions",
+        "customer support",
+        "fulltime",
+        "shopify",
+        "typescript",
+        "figma",
+        "next.js",
+        "javascript",
+        "frontend"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "support",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the uk"
+        ],
+        "raw": "Remote in the UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/e605fa9527ecbfc4/"
+    },
+    {
+      "id": "d0a74c9190fade9f",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior support engineer, noram",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/319b30b0-687b-40f2-a8b3-ed273636099c",
+      "apply": "https://jobs.ashbyhq.com/sanity/319b30b0-687b-40f2-a8b3-ed273636099c/application",
+      "posted": "2026-08-27",
+      "remote": true,
+      "location": "remote in the united states or canada (west coast/pt)",
+      "salary": null,
+      "tags": [
+        "customer solutions",
+        "customer support",
+        "fulltime",
+        "shopify",
+        "typescript",
+        "figma",
+        "next.js",
+        "javascript",
+        "frontend"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "support",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states or canada (west coast",
+          "pt)"
+        ],
+        "raw": "Remote in the United States or Canada (West Coast/PT)"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/d0a74c9190fade9f/"
+    },
+    {
+      "id": "cccdea5018b45911",
+      "source": "ashby",
+      "reference": null,
+      "title": "enterprise account executive, dach",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/6997bf48-5318-467e-bdd7-0440d25610a0",
+      "apply": "https://jobs.ashbyhq.com/sanity/6997bf48-5318-467e-bdd7-0440d25610a0/application",
+      "posted": "2026-09-07",
+      "remote": true,
+      "location": "remote in the uk",
+      "salary": null,
+      "tags": [
+        "sales",
+        "fulltime",
+        "salesforce",
+        "shopify",
+        "account executive"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the uk"
+        ],
+        "raw": "Remote in the UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/cccdea5018b45911/"
+    },
+    {
+      "id": "541ca6f31d8e4b3b",
+      "source": "ashby",
+      "reference": null,
+      "title": "director, sales enablement",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/57aa0802-8509-47b7-aa0e-b2dc69c5dea7",
+      "apply": "https://jobs.ashbyhq.com/sanity/57aa0802-8509-47b7-aa0e-b2dc69c5dea7/application",
+      "posted": "2026-09-09",
+      "remote": true,
+      "location": "remote in the united states",
+      "salary": null,
+      "tags": [
+        "sales",
+        "4.6 sales operations & enablement",
+        "fulltime",
+        "salesforce",
+        "shopify",
+        "figma"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "sales",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states"
+        ],
+        "raw": "Remote in the United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/541ca6f31d8e4b3b/"
+    },
+    {
+      "id": "8f4d822a2e568614",
+      "source": "ashby",
+      "reference": null,
+      "title": "director of sales, global account management",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/a33757ba-d519-4958-95ca-ce911c492739",
+      "apply": "https://jobs.ashbyhq.com/sanity/a33757ba-d519-4958-95ca-ce911c492739/application",
+      "posted": "2026-09-25",
+      "remote": true,
+      "location": "remote in the united states",
+      "salary": null,
+      "tags": [
+        "sales",
+        "4.3 sales existing business",
+        "fulltime",
+        "figma",
+        "account executive",
+        "partnerships"
+      ],
+      "blurb": "Sanity.io is a modern, flexible content operating system that replaces rigid legacy content management systems so companies like PUMA, Spotify, Figma, Riot Games, and Skims can create amazing digital experiences for their customers. As the Director of Sales, Global Account Management, you'll build and lead our growing post-sale expansion motion with existing customers.",
+      "category": "sales",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states"
+        ],
+        "raw": "Remote in the United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8f4d822a2e568614/"
+    },
+    {
+      "id": "adccc110e126eb7d",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior partner solutions engineer, technical partnerships",
+      "company": "sanity",
+      "url": "https://jobs.ashbyhq.com/sanity/5cdb9bd8-5fa7-4e89-bfa3-5a500cfed167",
+      "apply": "https://jobs.ashbyhq.com/sanity/5cdb9bd8-5fa7-4e89-bfa3-5a500cfed167/application",
+      "posted": "2026-10-07",
+      "remote": true,
+      "location": "remote in the united states or canada (west coast/pt)",
+      "salary": null,
+      "tags": [
+        "g&a",
+        "1.23 business development",
+        "fulltime",
+        "shopify",
+        "figma",
+        "llm",
+        "prototyping",
+        "project management",
+        "partnerships"
+      ],
+      "blurb": "At Sanity.io , we’re building the future of AI-powered Content Operations. Our AI Content Operating System gives teams the freedom to model, create, and automate content the way their business works, accelerating digital development and supercharging content operations efficiency.",
+      "category": "sales",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote in the united states or canada (west coast",
+          "pt)"
+        ],
+        "raw": "Remote in the United States or Canada (West Coast/PT)"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/adccc110e126eb7d/"
+    },
+    {
+      "id": "408f6b641e1342e1",
+      "source": "ashby",
+      "reference": null,
+      "title": "finance manager, marketing",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/cb1aec2c-05cd-4598-8117-bd1f7ed9a49f",
+      "apply": "https://jobs.ashbyhq.com/zapier/cb1aec2c-05cd-4598-8117-bd1f7ed9a49f/application",
+      "posted": "2026-09-21",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 13192,
+        "max": 19792,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 158300-237500",
+          "currency": "USD",
+          "min": 158300,
+          "max": 237500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance",
+        "fulltime",
+        "go",
+        "legal",
+        "zapier",
+        "investment banking",
+        "accounting"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/408f6b641e1342e1/"
+    },
+    {
+      "id": "1e30717e0b05125c",
+      "source": "ashby",
+      "reference": null,
+      "title": "account executive, mid market",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672",
+      "apply": "https://jobs.ashbyhq.com/zapier/d4576c10-a27e-47fa-a056-30c898b9e672/application",
+      "posted": "2026-08-26",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 11667,
+        "max": 14167,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 140000-170000",
+          "currency": "USD",
+          "min": 140000,
+          "max": 170000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "sales",
+        "fulltime",
+        "saas sales",
+        "go",
+        "legal",
+        "zapier",
+        "remote-first",
+        "customer success",
+        "compliance"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "sales",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/1e30717e0b05125c/"
+    },
+    {
+      "id": "120df48d35c07ec9",
+      "source": "ashby",
+      "reference": null,
+      "title": "automation strategist, customer success",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0",
+      "apply": "https://jobs.ashbyhq.com/zapier/45b2c110-f8e0-497a-914c-72fddf447ed0/application",
+      "posted": "2026-09-22",
+      "remote": true,
+      "location": "hq",
+      "salary": {
+        "min": 13192,
+        "max": 21950,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 158300-263400",
+          "currency": "USD",
+          "min": 158300,
+          "max": 263400,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "sales",
+        "fulltime",
+        "go",
+        "legal",
+        "zapier",
+        "customer success",
+        "data science"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "hq"
+        ],
+        "raw": "HQ"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/120df48d35c07ec9/"
+    },
+    {
+      "id": "7c2c2cbd54742f30",
+      "source": "ashby",
+      "reference": null,
+      "title": "manager, gtm analytics",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/7dd68291-3696-4fd0-a5d0-24ab73d22fff",
+      "apply": "https://jobs.ashbyhq.com/zapier/7dd68291-3696-4fd0-a5d0-24ab73d22fff/application",
+      "posted": "2026-08-26",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 14517,
+        "max": 21775,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 174200-261300",
+          "currency": "USD",
+          "min": 174200,
+          "max": 261300,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "data",
+        "fulltime",
+        "go",
+        "legal",
+        "zapier",
+        "finance",
+        "business operations",
+        "investment banking",
+        "data science"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "data",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/7c2c2cbd54742f30/"
+    },
+    {
+      "id": "098d4e818d31b2a3",
+      "source": "ashby",
+      "reference": null,
+      "title": "sr. technical account manager",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/eaf4ef36-116b-4aa1-b874-7474b16851e6",
+      "apply": "https://jobs.ashbyhq.com/zapier/eaf4ef36-116b-4aa1-b874-7474b16851e6/application",
+      "posted": "2026-08-31",
+      "remote": true,
+      "location": "south america",
+      "salary": {
+        "min": 5542,
+        "max": 8308,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 66500-99700",
+          "currency": "USD",
+          "min": 66500,
+          "max": 99700,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "customer operations",
+        "fulltime",
+        "go",
+        "legal",
+        "account manager",
+        "zapier",
+        "customer success",
+        "partnerships"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "operations",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "south america"
+        ],
+        "raw": "South America"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/098d4e818d31b2a3/"
+    },
+    {
+      "id": "f6448c916709abb1",
+      "source": "ashby",
+      "reference": null,
+      "title": "sr. product marketing manager, enterprise",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/1e5d20ae-d2ce-4924-9957-73a8c7c17654",
+      "apply": "https://jobs.ashbyhq.com/zapier/1e5d20ae-d2ce-4924-9957-73a8c7c17654/application",
+      "posted": "2026-10-07",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 14517,
+        "max": 21767,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 174200-261200",
+          "currency": "USD",
+          "min": 174200,
+          "max": 261200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "campaign marketing",
+        "fulltime",
+        "go",
+        "legal",
+        "zapier",
+        "partnerships"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "marketing",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/f6448c916709abb1/"
+    },
+    {
+      "id": "d20ea99d18717280",
+      "source": "ashby",
+      "reference": null,
+      "title": "sr. motion designer",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6",
+      "apply": "https://jobs.ashbyhq.com/zapier/c0582311-18cb-4415-9c86-79014f1b74f6/application",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "emea",
+      "salary": {
+        "min": 8684,
+        "max": 13035,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "EUR 92600-139000",
+          "currency": "EUR",
+          "min": 92600,
+          "max": 139000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "campaign marketing",
+        "fulltime",
+        "go",
+        "legal",
+        "figma",
+        "product design",
+        "zapier"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "marketing",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/d20ea99d18717280/"
+    },
+    {
+      "id": "19ea21848cf4a402",
+      "source": "ashby",
+      "reference": null,
+      "title": "growth design lead",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/b14ac81b-d94c-4a46-89a3-017f3d113517",
+      "apply": "https://jobs.ashbyhq.com/zapier/b14ac81b-d94c-4a46-89a3-017f3d113517/application",
+      "posted": "2026-09-16",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 15958,
+        "max": 23942,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 191500-287300",
+          "currency": "USD",
+          "min": 191500,
+          "max": 287300,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "campaign marketing",
+        "fulltime",
+        "go",
+        "legal",
+        "figma",
+        "growth marketing",
+        "zapier",
+        "design systems",
+        "content strategy",
+        "prototyping",
+        "seo",
+        "crm"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "marketing",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/19ea21848cf4a402/"
+    },
+    {
+      "id": "14c3dab32e2cac58",
+      "source": "ashby",
+      "reference": null,
+      "title": "legal counsel",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6",
+      "apply": "https://jobs.ashbyhq.com/zapier/04838dc8-0efa-4fe5-b705-c99f6b3f17c6/application",
+      "posted": "2026-09-18",
+      "remote": true,
+      "location": "namer",
+      "salary": {
+        "min": 14517,
+        "max": 21775,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 174200-261300",
+          "currency": "USD",
+          "min": 174200,
+          "max": 261300,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal",
+        "fulltime",
+        "time management",
+        "go",
+        "zapier"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "namer"
+        ],
+        "raw": "NAMER"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/14c3dab32e2cac58/"
+    },
+    {
+      "id": "ef0115d4d689d751",
+      "source": "ashby",
+      "reference": null,
+      "title": "people business partner",
+      "company": "zapier",
+      "url": "https://jobs.ashbyhq.com/zapier/3d1b1dbc-36ae-4acc-afff-e83fdf4d0280",
+      "apply": "https://jobs.ashbyhq.com/zapier/3d1b1dbc-36ae-4acc-afff-e83fdf4d0280/application",
+      "posted": "2026-10-06",
+      "remote": true,
+      "location": "emea",
+      "salary": {
+        "min": 9135,
+        "max": 13691,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "GBP 82200-123200",
+          "currency": "GBP",
+          "min": 82200,
+          "max": 123200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "people",
+        "fulltime",
+        "go",
+        "legal",
+        "zapier"
+      ],
+      "blurb": "At Zapier , we build and use automation every day to make work more efficient, creative, and human. So if you’re using AI tools while applying here - that’s great! We just ask that you use them responsibly and transparently .",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/ef0115d4d689d751/"
+    },
+    {
+      "id": "9e2dc8baa40bc7d1",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior infrastructure engineer",
+      "company": "buffer",
+      "url": "https://jobs.ashbyhq.com/buffer/1ee8b707-48a0-40cc-a319-3fb7c665a1e8",
+      "apply": "https://jobs.ashbyhq.com/buffer/1ee8b707-48a0-40cc-a319-3fb7c665a1e8/application",
+      "posted": "2026-07-28",
+      "remote": true,
+      "location": "remote",
+      "salary": {
+        "min": 13716,
+        "max": 17729,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 164595-212744",
+          "currency": "USD",
+          "min": 164595,
+          "max": 212744,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "engineering",
+        "fulltime",
+        "php",
+        "zero trust",
+        "platform engineering",
+        "python",
+        "typescript",
+        "ci/cd",
+        "ai agents",
+        "social media",
+        "gcp",
+        "incident response",
+        "remote-first",
+        "aws",
+        "kubernetes",
+        "iam",
+        "node.js",
+        "devops",
+        "recruiting",
+        "full-stack",
+        "terraform",
+        "frontend",
+        "notion"
+      ],
+      "blurb": "We create social media and brand-building software for small businesses, creators, and individuals. Our mission is to provide essential tools to help small businesses get off the ground and grow. Through exceptional customer service and uplifting content, we help our customers believe they can succeed and do good along the way.",
+      "category": "engineering",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote"
+        ],
+        "raw": "Remote"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/9e2dc8baa40bc7d1/"
+    },
+    {
+      "id": "6c9b1b134d976239",
+      "source": "ashby",
+      "reference": null,
+      "title": "accounts payable analyst",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/83b10c34-8c44-4c58-89d4-5e99be716c76",
+      "apply": "https://jobs.ashbyhq.com/oyster/83b10c34-8c44-4c58-89d4-5e99be716c76/application",
+      "posted": "2026-10-08",
+      "remote": true,
+      "location": "spain",
+      "salary": null,
+      "tags": [
+        "finance",
+        "finance operations",
+        "fulltime",
+        "global employment",
+        "recruiting",
+        "compliance",
+        "notion",
+        "accounting"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "spain"
+        ],
+        "raw": "Spain"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/6c9b1b134d976239/"
+    },
+    {
+      "id": "b1350234268f3298",
+      "source": "ashby",
+      "reference": null,
+      "title": "lead product manager",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/20b0c812-255e-433b-99bb-2d1f399f0c7a",
+      "apply": "https://jobs.ashbyhq.com/oyster/20b0c812-255e-433b-99bb-2d1f399f0c7a/application",
+      "posted": "2026-10-06",
+      "remote": true,
+      "location": "emea",
+      "salary": null,
+      "tags": [
+        "product development",
+        "product management",
+        "fulltime",
+        "go",
+        "legal",
+        "finance",
+        "prototyping",
+        "fintech",
+        "global employment",
+        "logistics",
+        "recruiting",
+        "compliance",
+        "notion"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "product",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/b1350234268f3298/"
+    },
+    {
+      "id": "995c2ffd83fab53a",
+      "source": "ashby",
+      "reference": null,
+      "title": "payroll specialist (netherlands)",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/4338de39-82e7-4eaf-adcc-fa5a60798719",
+      "apply": "https://jobs.ashbyhq.com/oyster/4338de39-82e7-4eaf-adcc-fa5a60798719/application",
+      "posted": "2026-08-18",
+      "remote": true,
+      "location": "netherlands",
+      "salary": null,
+      "tags": [
+        "operations",
+        "payroll operations",
+        "fulltime",
+        "go",
+        "finance",
+        "remote-first",
+        "tax",
+        "global employment",
+        "recruiting",
+        "gdpr",
+        "compliance",
+        "notion",
+        "accounting"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "operations",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "netherlands"
+        ],
+        "raw": "Netherlands"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/995c2ffd83fab53a/"
+    },
+    {
+      "id": "8ff731a50436e73e",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior data engineer",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/7c2d418d-d817-4e9f-b73c-41fa5f6549af",
+      "apply": "https://jobs.ashbyhq.com/oyster/7c2d418d-d817-4e9f-b73c-41fa5f6549af/application",
+      "posted": "2026-09-16",
+      "remote": true,
+      "location": "emea",
+      "salary": null,
+      "tags": [
+        "product development",
+        "data engineering",
+        "fulltime",
+        "platform engineering",
+        "python",
+        "vector databases",
+        "ai agents",
+        "llm",
+        "rag",
+        "global employment",
+        "aws",
+        "recruiting",
+        "backend",
+        "compliance",
+        "notion",
+        "generative ai"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "product",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8ff731a50436e73e/"
+    },
+    {
+      "id": "a46b85aa084847d3",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior director, product (employer of record)",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/7835b377-7646-43a1-b917-b63f1e579869",
+      "apply": "https://jobs.ashbyhq.com/oyster/7835b377-7646-43a1-b917-b63f1e579869/application",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "emea",
+      "salary": null,
+      "tags": [
+        "product development",
+        "product management",
+        "fulltime",
+        "legal",
+        "finance",
+        "fintech",
+        "global employment",
+        "recruiting",
+        "compliance",
+        "notion"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "product",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "emea"
+        ],
+        "raw": "EMEA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/a46b85aa084847d3/"
+    },
+    {
+      "id": "3ce89efa90111167",
+      "source": "ashby",
+      "reference": null,
+      "title": "senior gtm engineer",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/f4caa57f-bdb1-42d8-a884-12bf341f677c",
+      "apply": "https://jobs.ashbyhq.com/oyster/f4caa57f-bdb1-42d8-a884-12bf341f677c/application",
+      "posted": "2026-09-18",
+      "remote": true,
+      "location": "spain",
+      "salary": null,
+      "tags": [
+        "go to market",
+        "revenue operations",
+        "fulltime",
+        "salesforce",
+        "software engineering",
+        "marketing automation",
+        "global employment",
+        "crm",
+        "recruiting",
+        "compliance",
+        "notion"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "operations",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "spain"
+        ],
+        "raw": "Spain"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/3ce89efa90111167/"
+    },
+    {
+      "id": "5b9e3a55a43b2eca",
+      "source": "ashby",
+      "reference": null,
+      "title": "integrated campaign manager",
+      "company": "oyster",
+      "url": "https://jobs.ashbyhq.com/oyster/dae33341-78f9-4046-ab9a-ffc0f9b2c791",
+      "apply": "https://jobs.ashbyhq.com/oyster/dae33341-78f9-4046-ab9a-ffc0f9b2c791/application",
+      "posted": "2026-10-16",
+      "remote": true,
+      "location": "global",
+      "salary": {
+        "min": 5002,
+        "max": 6179,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "CAD 85000-105000",
+          "currency": "CAD",
+          "min": 85000,
+          "max": 105000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "go to market",
+        "demand generation",
+        "fulltime",
+        "salesforce",
+        "growth marketing",
+        "global employment",
+        "crm",
+        "recruiting",
+        "compliance",
+        "notion"
+      ],
+      "blurb": "The best jobs have always clustered in a handful of the world's wealthiest cities. But talent is everywhere. Oyster set out to close that gap - building a global employment platform that lets companies hire, pay, and care for brilliant people anywhere.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "worldwide",
+        "places": [],
+        "raw": "Global"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/5b9e3a55a43b2eca/"
+    },
+    {
+      "id": "b448f59511159cf5",
+      "source": "greenhouse",
+      "reference": "P78172",
+      "title": "analyst, privacy (privacy assessments)",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8280209?gh_jid=8280209",
+      "apply": "https://www.coinbase.com/careers/positions/8280209?gh_jid=8280209",
+      "posted": "2026-10-13",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 11277,
+        "max": 13267,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 135320-159200",
+          "currency": "USD",
+          "min": 135320,
+          "max": 159200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "security & privacy",
+        "legal",
+        "risk management",
+        "finance",
+        "blockchain",
+        "remote-first",
+        "gdpr",
+        "web3",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/b448f59511159cf5/"
+    },
+    {
+      "id": "34831d52a8137f89",
+      "source": "greenhouse",
+      "reference": "P77876",
+      "title": "associate general counsel, privacy",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
+      "apply": "https://www.coinbase.com/careers/positions/8212923?gh_jid=8212923",
+      "posted": "2026-09-22",
+      "remote": true,
+      "location": "remote - uk",
+      "salary": {
+        "min": 18665,
+        "max": 19647,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "GBP 167960-176800",
+          "currency": "GBP",
+          "min": 167960,
+          "max": 176800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "finance",
+        "remote-first",
+        "information security",
+        "gdpr",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - uk"
+        ],
+        "raw": "Remote - UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/34831d52a8137f89/"
+    },
+    {
+      "id": "3ad89f9ffceff0a8",
+      "source": "greenhouse",
+      "reference": "P77876",
+      "title": "associate general counsel, privacy",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393",
+      "apply": "https://www.coinbase.com/careers/positions/8227393?gh_jid=8227393",
+      "posted": "2026-09-23",
+      "remote": true,
+      "location": "remote - ireland",
+      "salary": {
+        "min": 18352,
+        "max": 18352,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "EUR 195700-195700",
+          "currency": "EUR",
+          "min": 195700,
+          "max": 195700,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "finance",
+        "remote-first",
+        "information security",
+        "gdpr",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - ireland"
+        ],
+        "raw": "Remote - Ireland"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/3ad89f9ffceff0a8/"
+    },
+    {
+      "id": "9ad72872b8b5f86c",
+      "source": "greenhouse",
+      "reference": "P77898",
+      "title": "associate manager, internal audit",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987",
+      "apply": "https://www.coinbase.com/careers/positions/8154987?gh_jid=8154987",
+      "posted": "2026-08-24",
+      "remote": true,
+      "location": "remote - uk",
+      "salary": {
+        "min": 8501,
+        "max": 9446,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "GBP 76500-85000",
+          "currency": "GBP",
+          "min": 76500,
+          "max": 85000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "legal",
+        "audit",
+        "risk management",
+        "finance",
+        "remote-first",
+        "fintech",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - uk"
+        ],
+        "raw": "Remote - UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/9ad72872b8b5f86c/"
+    },
+    {
+      "id": "fee286d0fd362f80",
+      "source": "greenhouse",
+      "reference": "P78331",
+      "title": "broker dealer operations, associate",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775",
+      "apply": "https://www.coinbase.com/careers/positions/8248775?gh_jid=8248775",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 10118,
+        "max": 10650,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 121410-127800",
+          "currency": "USD",
+          "min": 121410,
+          "max": 127800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "institutional sales, trading, and prime services",
+        "legal",
+        "finance",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/fee286d0fd362f80/"
+    },
+    {
+      "id": "2c9550d35e09931e",
+      "source": "greenhouse",
+      "reference": "P78293",
+      "title": "broker dealer operations, senior associate",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8249920?gh_jid=8249920",
+      "apply": "https://www.coinbase.com/careers/positions/8249920?gh_jid=8249920",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 10908,
+        "max": 12833,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 130900-154000",
+          "currency": "USD",
+          "min": 130900,
+          "max": 154000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "institutional sales, trading, and prime services",
+        "legal",
+        "audit",
+        "finance",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "sales",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/2c9550d35e09931e/"
+    },
+    {
+      "id": "8af96fa592986e89",
+      "source": "greenhouse",
+      "reference": "P77106",
+      "title": "capacity planning lead",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8238573?gh_jid=8238573",
+      "apply": "https://www.coinbase.com/careers/positions/8238573?gh_jid=8238573",
+      "posted": "2026-09-28",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 9052,
+        "max": 10650,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 108630-127800",
+          "currency": "USD",
+          "min": 108630,
+          "max": 127800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "customer experience",
+        "legal",
+        "finance",
+        "remote-first",
+        "fintech",
+        "recruiting",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8af96fa592986e89/"
+    },
+    {
+      "id": "fb063418a6d18567",
+      "source": "greenhouse",
+      "reference": "P77781",
+      "title": "chief of staff",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316",
+      "apply": "https://www.coinbase.com/careers/positions/8131316?gh_jid=8131316",
+      "posted": "2026-08-14",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 17694,
+        "max": 20817,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 212330-249800",
+          "currency": "USD",
+          "min": 212330,
+          "max": 249800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "hr & recruiting",
+        "legal",
+        "social media",
+        "finance",
+        "business operations",
+        "remote-first",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "people",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/fb063418a6d18567/"
+    },
+    {
+      "id": "771c0261f5c1f963",
+      "source": "greenhouse",
+      "reference": "P78210",
+      "title": "compliance, international investigations associate",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
+      "apply": "https://www.coinbase.com/careers/positions/8224726?gh_jid=8224726",
+      "posted": "2026-09-24",
+      "remote": true,
+      "location": "remote - uk",
+      "salary": {
+        "min": 6181,
+        "max": 6868,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "GBP 55620-61800",
+          "currency": "GBP",
+          "min": 55620,
+          "max": 61800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "compliance & aml operations",
+        "legal",
+        "finance",
+        "blockchain",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - uk"
+        ],
+        "raw": "Remote - UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/771c0261f5c1f963/"
+    },
+    {
+      "id": "d73e8e2086c98c16",
+      "source": "greenhouse",
+      "reference": "P77884",
+      "title": "compliance, senior associate",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8232451?gh_jid=8232451",
+      "apply": "https://www.coinbase.com/careers/positions/8232451?gh_jid=8232451",
+      "posted": "2026-09-30",
+      "remote": true,
+      "location": "remote - canada",
+      "salary": {
+        "min": 7185,
+        "max": 7185,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "CAD 122100-122100",
+          "currency": "CAD",
+          "min": 122100,
+          "max": 122100,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "finance",
+        "remote-first",
+        "fintech",
+        "cryptocurrency",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - canada"
+        ],
+        "raw": "Remote - Canada"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/d73e8e2086c98c16/"
+    },
+    {
+      "id": "6ae5cbafe67d60f1",
+      "source": "greenhouse",
+      "reference": "P78199",
+      "title": "corporate development senior manager",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8238602?gh_jid=8238602",
+      "apply": "https://www.coinbase.com/careers/positions/8238602?gh_jid=8238602",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 19189,
+        "max": 22575,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 230265-270900",
+          "currency": "USD",
+          "min": 230265,
+          "max": 270900,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "business development & partnerships",
+        "legal",
+        "finance",
+        "blockchain",
+        "remote-first",
+        "investment banking",
+        "recruiting",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "sales",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/6ae5cbafe67d60f1/"
+    },
+    {
+      "id": "12485dfe3c712872",
+      "source": "greenhouse",
+      "reference": "P78208",
+      "title": "counsel, employment",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8275465?gh_jid=8275465",
+      "apply": "https://www.coinbase.com/careers/positions/8275465?gh_jid=8275465",
+      "posted": "2026-10-12",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 15321,
+        "max": 18025,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 183855-216300",
+          "currency": "USD",
+          "min": 183855,
+          "max": 216300,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "audit",
+        "finance",
+        "remote-first",
+        "global employment",
+        "recruiting",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/12485dfe3c712872/"
+    },
+    {
+      "id": "2e4f80f5f6de03a6",
+      "source": "greenhouse",
+      "reference": "P77678",
+      "title": "credit risk analyst",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356",
+      "apply": "https://www.coinbase.com/careers/positions/8131356?gh_jid=8131356",
+      "posted": "2026-08-14",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 7919,
+        "max": 9317,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 95030-111800",
+          "currency": "USD",
+          "min": 95030,
+          "max": 111800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "risk & fraud",
+        "legal",
+        "risk management",
+        "business development",
+        "finance",
+        "remote-first",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/2e4f80f5f6de03a6/"
+    },
+    {
+      "id": "c67f412ca0b164fd",
+      "source": "greenhouse",
+      "reference": "P77732",
+      "title": "derivative sales analyst",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444",
+      "apply": "https://www.coinbase.com/careers/positions/8097444?gh_jid=8097444",
+      "posted": "2026-09-11",
+      "remote": true,
+      "location": "remote - uk",
+      "salary": {
+        "min": 10051,
+        "max": 11168,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "GBP 90450-100500",
+          "currency": "GBP",
+          "min": 90450,
+          "max": 100500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "institutional sales, trading, and prime services",
+        "legal",
+        "business development",
+        "finance",
+        "remote-first",
+        "crm",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "sales",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - uk"
+        ],
+        "raw": "Remote - UK"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/c67f412ca0b164fd/"
+    },
+    {
+      "id": "2e48103ea83f26ea",
+      "source": "greenhouse",
+      "reference": "P77644",
+      "title": "engineering manager, finhub - financial intelligence (platform)",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031",
+      "apply": "https://www.coinbase.com/careers/positions/8138031?gh_jid=8138031",
+      "posted": "2026-08-17",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 18169,
+        "max": 21375,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 218025-256500",
+          "currency": "USD",
+          "min": 218025,
+          "max": 256500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "engineering - managers",
+        "software engineering",
+        "legal",
+        "finance",
+        "incident response",
+        "remote-first",
+        "full-stack",
+        "backend",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/2e48103ea83f26ea/"
+    },
+    {
+      "id": "2d3040dd7d960146",
+      "source": "greenhouse",
+      "reference": "P78334",
+      "title": "enterprise engineer",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8265721?gh_jid=8265721",
+      "apply": "https://www.coinbase.com/careers/positions/8265721?gh_jid=8265721",
+      "posted": "2026-10-09",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 11277,
+        "max": 13267,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 135320-159200",
+          "currency": "USD",
+          "min": 135320,
+          "max": 159200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "enterprise applications",
+        "salesforce",
+        "legal",
+        "finance",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/2d3040dd7d960146/"
+    },
+    {
+      "id": "cb9c16a126eb8547",
+      "source": "greenhouse",
+      "reference": "P78268",
+      "title": "enterprise risk management analyst",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8233945?gh_jid=8233945",
+      "apply": "https://www.coinbase.com/careers/positions/8233945?gh_jid=8233945",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "remote - luxembourg",
+      "salary": {
+        "min": 7252,
+        "max": 7633,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "EUR 77330-81400",
+          "currency": "EUR",
+          "min": 77330,
+          "max": 81400,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "risk & fraud",
+        "python",
+        "legal",
+        "audit",
+        "risk management",
+        "finance",
+        "remote-first",
+        "compliance",
+        "grc",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - luxembourg"
+        ],
+        "raw": "Remote - Luxembourg"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/cb9c16a126eb8547/"
+    },
+    {
+      "id": "8f3abde28ae7b651",
+      "source": "greenhouse",
+      "reference": "P77864",
+      "title": "finance & strategy analyst, product",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032",
+      "apply": "https://www.coinbase.com/careers/positions/8250032?gh_jid=8250032",
+      "posted": "2026-10-02",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 10908,
+        "max": 12833,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 130900-154000",
+          "currency": "USD",
+          "min": 130900,
+          "max": 154000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "legal",
+        "finance",
+        "business operations",
+        "remote-first",
+        "accounting",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8f3abde28ae7b651/"
+    },
+    {
+      "id": "262f215af198a481",
+      "source": "greenhouse",
+      "reference": "P77745",
+      "title": "forward deployed engineer, compliance [office of the cto]",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+      "apply": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+      "posted": "2026-07-31",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 18169,
+        "max": 21375,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 218025-256500",
+          "currency": "USD",
+          "min": 218025,
+          "max": 256500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "engineering - backend",
+        "software engineering",
+        "legal",
+        "audit",
+        "llm",
+        "finance",
+        "remote-first",
+        "prompt engineering",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/262f215af198a481/"
+    },
+    {
+      "id": "f32b9c50d13c0185",
+      "source": "greenhouse",
+      "reference": "P77680",
+      "title": "forward deployed engineer, finance [office of the cto]",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
+      "apply": "https://www.coinbase.com/careers/positions/8072932?gh_jid=8072932",
+      "posted": "2026-07-22",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 18169,
+        "max": 21375,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 218025-256500",
+          "currency": "USD",
+          "min": 218025,
+          "max": 256500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "software engineering",
+        "legal",
+        "llm",
+        "finance",
+        "remote-first",
+        "fintech",
+        "prompt engineering",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/f32b9c50d13c0185/"
+    },
+    {
+      "id": "40eb3b83da668cc3",
+      "source": "greenhouse",
+      "reference": "P78603",
+      "title": "group product manager, customer engagement & experience",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
+      "apply": "https://www.coinbase.com/careers/positions/8247881?gh_jid=8247881",
+      "posted": "2026-10-01",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 20322,
+        "max": 23908,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 243865-286900",
+          "currency": "USD",
+          "min": 243865,
+          "max": 286900,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "product",
+        "product management",
+        "legal",
+        "ai agents",
+        "llm",
+        "finance",
+        "remote-first",
+        "fintech",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "product",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/40eb3b83da668cc3/"
+    },
+    {
+      "id": "92499effda561f4e",
+      "source": "greenhouse",
+      "reference": "P78362",
+      "title": "group product manager, money movement",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+      "apply": "https://www.coinbase.com/careers/positions/8234060?gh_jid=8234060",
+      "posted": "2026-09-25",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 20322,
+        "max": 23908,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 243865-286900",
+          "currency": "USD",
+          "min": 243865,
+          "max": 286900,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "product",
+        "product management",
+        "legal",
+        "ai agents",
+        "finance",
+        "blockchain",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "product",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/92499effda561f4e/"
+    },
+    {
+      "id": "a73510762d33b447",
+      "source": "greenhouse",
+      "reference": "P78602",
+      "title": "head of kyc",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8244259?gh_jid=8244259",
+      "apply": "https://www.coinbase.com/careers/positions/8244259?gh_jid=8244259",
+      "posted": "2026-09-30",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 21052,
+        "max": 24767,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 252620-297200",
+          "currency": "USD",
+          "min": 252620,
+          "max": 297200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "finance",
+        "remote-first",
+        "fintech",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/a73510762d33b447/"
+    },
+    {
+      "id": "72de0dced06e1e76",
+      "source": "greenhouse",
+      "reference": "P77754",
+      "title": "internal audit manager",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292",
+      "apply": "https://www.coinbase.com/careers/positions/8097292?gh_jid=8097292",
+      "posted": "2026-07-30",
+      "remote": true,
+      "location": "remote - luxembourg",
+      "salary": {
+        "min": 11813,
+        "max": 12435,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "EUR 125970-132600",
+          "currency": "EUR",
+          "min": 125970,
+          "max": 132600,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "legal",
+        "audit",
+        "risk management",
+        "finance",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - luxembourg"
+        ],
+        "raw": "Remote - Luxembourg"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/72de0dced06e1e76/"
+    },
+    {
+      "id": "15c6cea6d8d536a3",
+      "source": "greenhouse",
+      "reference": "P77764",
+      "title": "internal audit senior associate, operations & compliance",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684",
+      "apply": "https://www.coinbase.com/careers/positions/8114684?gh_jid=8114684",
+      "posted": "2026-08-07",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 9052,
+        "max": 10650,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 108630-127800",
+          "currency": "USD",
+          "min": 108630,
+          "max": 127800,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "legal",
+        "audit",
+        "risk management",
+        "finance",
+        "remote-first",
+        "fintech",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/15c6cea6d8d536a3/"
+    },
+    {
+      "id": "0ae5a577870e46a1",
+      "source": "greenhouse",
+      "reference": "P77855",
+      "title": "internal communications manager",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911",
+      "apply": "https://www.coinbase.com/careers/positions/8162911?gh_jid=8162911",
+      "posted": "2026-08-27",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 14230,
+        "max": 16742,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 170765-200900",
+          "currency": "USD",
+          "min": 170765,
+          "max": 200900,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "marketing & communications",
+        "legal",
+        "finance",
+        "remote-first",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "marketing",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/0ae5a577870e46a1/"
+    },
+    {
+      "id": "df66b33682fe3084",
+      "source": "greenhouse",
+      "reference": "P77779",
+      "title": "legal operations manager, vendor & spend management",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
+      "apply": "https://www.coinbase.com/careers/positions/8129321?gh_jid=8129321",
+      "posted": "2026-08-13",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 12403,
+        "max": 14625,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 148835-175500",
+          "currency": "USD",
+          "min": 148835,
+          "max": 175500,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "legal & compliance",
+        "legal",
+        "finance",
+        "remote-first",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/df66b33682fe3084/"
+    },
+    {
+      "id": "06a3cacaa282262f",
+      "source": "greenhouse",
+      "reference": "P78170",
+      "title": "manager, grc",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8167666?gh_jid=8167666",
+      "apply": "https://www.coinbase.com/careers/positions/8167666?gh_jid=8167666",
+      "posted": "2026-08-31",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 16164,
+        "max": 19017,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 193970-228200",
+          "currency": "USD",
+          "min": 193970,
+          "max": 228200,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "security & privacy",
+        "legal",
+        "cybersecurity",
+        "audit",
+        "risk management",
+        "finance",
+        "incident response",
+        "remote-first",
+        "full-stack",
+        "compliance",
+        "supply chain",
+        "partnerships",
+        "artificial intelligence",
+        "grc",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "engineering",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/06a3cacaa282262f/"
+    },
+    {
+      "id": "d1876e15b5e898cc",
+      "source": "greenhouse",
+      "reference": "P78600",
+      "title": "manager, sec reporting",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8269049?gh_jid=8269049",
+      "apply": "https://www.coinbase.com/careers/positions/8269049?gh_jid=8269049",
+      "posted": "2026-10-13",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 13862,
+        "max": 16308,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 166345-195700",
+          "currency": "USD",
+          "min": 166345,
+          "max": 195700,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "finance & accounting",
+        "legal",
+        "audit",
+        "finance",
+        "remote-first",
+        "tax",
+        "project management",
+        "accounting",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "finance",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/d1876e15b5e898cc/"
+    },
+    {
+      "id": "8bbddb012eb0317b",
+      "source": "greenhouse",
+      "reference": "P77103",
+      "title": "manager, wfm compliance operations",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
+      "apply": "https://www.coinbase.com/careers/positions/8089161?gh_jid=8089161",
+      "posted": "2026-08-03",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": null,
+      "tags": [
+        "customer experience",
+        "low-code",
+        "legal",
+        "ai agents",
+        "llm",
+        "finance",
+        "remote-first",
+        "fintech",
+        "compliance",
+        "partnerships"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8bbddb012eb0317b/"
+    },
+    {
+      "id": "89c2d3783dc3aff4",
+      "source": "greenhouse",
+      "reference": "P78275",
+      "title": "money laundering reporting officer, adgm",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8207236?gh_jid=8207236",
+      "apply": "https://www.coinbase.com/careers/positions/8207236?gh_jid=8207236",
+      "posted": "2026-09-30",
+      "remote": true,
+      "location": "remote - uae",
+      "salary": {
+        "min": null,
+        "max": null,
+        "currency": null,
+        "period": null,
+        "original": {
+          "raw": "AED 510000-510000",
+          "currency": "AED",
+          "min": 510000,
+          "max": 510000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "international expansion",
+        "legal",
+        "audit",
+        "finance",
+        "remote-first",
+        "fintech",
+        "cryptocurrency",
+        "compliance",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - uae"
+        ],
+        "raw": "Remote - UAE"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/89c2d3783dc3aff4/"
+    },
+    {
+      "id": "d49d3802e2a83f27",
+      "source": "greenhouse",
+      "reference": "P77123",
+      "title": "operational excellence senior program lead",
+      "company": "coinbase",
+      "url": "https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059",
+      "apply": "https://www.coinbase.com/careers/positions/8198059?gh_jid=8198059",
+      "posted": "2026-09-11",
+      "remote": true,
+      "location": "remote - usa",
+      "salary": {
+        "min": 10908,
+        "max": 12833,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "USD 130900-154000",
+          "currency": "USD",
+          "min": 130900,
+          "max": 154000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "customer experience",
+        "legal",
+        "finance",
+        "remote-first",
+        "generative ai"
+      ],
+      "blurb": "Ready to do the most impactful work of your career? At Coinbase , we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way.",
+      "category": "other",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote - usa"
+        ],
+        "raw": "Remote - USA"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/d49d3802e2a83f27/"
+    },
+    {
+      "id": "068eb55626cad6b8",
+      "source": "himalayas",
+      "reference": null,
+      "title": "freelance copywriter",
+      "company": "publicis groupe",
+      "url": "https://himalayas.app/companies/publicis-groupe/jobs/freelance-copywriter",
+      "apply": "https://himalayas.app/companies/publicis-groupe/jobs/freelance-copywriter",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "vietnam",
+      "salary": null,
+      "tags": [
+        "content creator",
+        "contractor",
+        "social media",
+        "foundry"
+      ],
+      "blurb": "Publicis Groupe is the second largest communications group in the world, a leader in marketing, communication, and digital business transformation. As a platform at the intersection of marketing and digital business transformation, driven through the alchemy of creativity and technology, Publicis Groupe is built on The Power of One.",
+      "category": "content",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "vietnam"
+        ],
+        "raw": "Vietnam"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/068eb55626cad6b8/"
+    },
+    {
+      "id": "600739f8d29ad7ec",
+      "source": "himalayas",
+      "reference": null,
+      "title": "senior solutions architect – diffusion ai models",
+      "company": "nvidia",
+      "url": "https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-diffusion-ai-models-7269275615",
+      "apply": "https://himalayas.app/companies/nvidia/jobs/senior-solutions-architect-diffusion-ai-models-7269275615",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "france",
+      "salary": {
+        "min": 6277,
+        "max": 10880,
+        "currency": "USD",
+        "period": "month",
+        "original": {
+          "raw": "PLN 292500-507000",
+          "currency": "PLN",
+          "min": 292500,
+          "max": 507000,
+          "period": "year"
+        }
+      },
+      "tags": [
+        "developer",
+        "data science",
+        "full time",
+        "machine learning",
+        "computer vision",
+        "generative ai"
+      ],
+      "blurb": "We are seeking a Senior Solutions Architect with deep expertise in large-scale training and inference optimization of computer vision models such as diffusion based.",
+      "category": "data",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "france"
+        ],
+        "raw": "France"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/600739f8d29ad7ec/"
+    },
+    {
+      "id": "637349459c6bfff0",
+      "source": "himalayas",
+      "reference": null,
+      "title": "master data analyst",
+      "company": "menasha corporation",
+      "url": "https://himalayas.app/companies/menasha-corporation/jobs/master-data-analyst",
+      "apply": "https://himalayas.app/companies/menasha-corporation/jobs/master-data-analyst",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "united states",
+      "salary": null,
+      "tags": [
+        "data science",
+        "full time",
+        "sustainability",
+        "audit",
+        "compliance",
+        "supply chain"
+      ],
+      "blurb": "Menasha Corporation Employees, please log-in to your Workday account to apply for positions. ABOUT US (AND OUR EXCITING FUTURE). Menasha Corporation is all about possibilities.",
+      "category": "data",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "united states"
+        ],
+        "raw": "United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/637349459c6bfff0/"
+    },
+    {
+      "id": "96ad126fd0f025b3",
+      "source": "himalayas",
+      "reference": null,
+      "title": "sr country regulatory specialist, clinical research - 100% remote in mexico, eng",
+      "company": "syneos health india private limited",
+      "url": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/sr-country-regulatory-specialist-clinical-research-100-remote-in-mexico-eng",
+      "apply": "https://himalayas.app/companies/syneos-health-india-private-limited/jobs/sr-country-regulatory-specialist-clinical-research-100-remote-in-mexico-eng",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "mexico",
+      "salary": null,
+      "tags": [
+        "healthcare",
+        "full time",
+        "business development",
+        "gcp",
+        "agile",
+        "customer success",
+        "compliance"
+      ],
+      "blurb": "Sr Country Regulatory Specialist, Clinical Research - 100% Remote in Mexico, English advanced Syneos Health® is a leading fully-integrated life sciences services organization built to accelerate customer success. We partner with innovators at every point across the drug development and commercialization continuum, helping them navigate complexity, anticipate change and accelerate progress.",
+      "category": "other",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "mexico"
+        ],
+        "raw": "Mexico"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/96ad126fd0f025b3/"
+    },
+    {
+      "id": "3e9311399af1aa14",
+      "source": "himalayas",
+      "reference": null,
+      "title": "regional sales director",
+      "company": "autonation",
+      "url": "https://himalayas.app/companies/autonation/jobs/regional-sales-director",
+      "apply": "https://himalayas.app/companies/autonation/jobs/regional-sales-director",
+      "posted": "2026-10-18",
+      "remote": true,
+      "location": "united states",
+      "salary": null,
+      "tags": [
+        "sales",
+        "full time",
+        "salesforce",
+        "time management",
+        "sales operations",
+        "business development"
+      ],
+      "blurb": "The Regional Sales Director assists fleets to manage total cost of fleet ownership in a more convenient and cost-effective way, thus increasing fleet efficiency and operational performance, through comprehensive fleet and mobile maintenance solutions.",
+      "category": "sales",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "united states"
+        ],
+        "raw": "United States"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/3e9311399af1aa14/"
+    },
+    {
+      "id": "8bf01350e4ccdb09",
+      "source": "remoteok",
+      "reference": null,
+      "title": "director of it and workplace",
+      "company": "hippocratic ai",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "apply": "https://remoteOK.com/remote-jobs/remote-director-of-it-and-workplace-hippocratic-ai-1137530",
+      "posted": "2026-10-16",
+      "remote": true,
+      "location": "menlo park",
+      "salary": null,
+      "tags": [
+        "exec",
+        "saas",
+        "infosec",
+        "python",
+        "technical",
+        "customer support",
+        "testing",
+        "marketing",
+        "dev",
+        "finance",
+        "education",
+        "c",
+        "admin",
+        "microsoft",
+        "senior",
+        "ops",
+        "legal",
+        "medical",
+        "recruiter",
+        "engineer",
+        "digital nomad",
+        "audit",
+        "llm",
+        "incident response",
+        "logistics",
+        "recruiting",
+        "compliance"
+      ],
+      "blurb": "We've grown to roughly 265 people working onsite from our Menlo Park headquarters, supported by a large network of remote U.S.-licensed clinicians â and part of the Series C is earmarked for acquisitions. The systems and the spaces holding all of that together were built for a much smaller company. We're hiring a Director of IT & Workplace to own them properly.",
+      "category": "support",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "menlo park"
+        ],
+        "raw": "Menlo Park"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/8bf01350e4ccdb09/"
+    },
+    {
+      "id": "4114ade26d1686ae",
+      "source": "remoteok",
+      "reference": null,
+      "title": "customer success associate",
+      "company": "voltus",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+      "apply": "https://remoteOK.com/remote-jobs/remote-customer-success-associate-voltus-1137529",
+      "posted": "2026-10-16",
+      "remote": true,
+      "location": "remote",
+      "salary": null,
+      "tags": [
+        "customer support",
+        "testing",
+        "exec",
+        "ops",
+        "sales",
+        "engineer",
+        "customer success",
+        "project management"
+      ],
+      "blurb": "Voltus represents the potential of us to better manage energy through simple, cost and risk-free demand response programs. Our commercial and industrial customers earn cash by letting us maximize the value of their operational flexibility in energy markets.",
+      "category": "support",
+      "experience": null,
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "remote"
+        ],
+        "raw": "Remote"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/4114ade26d1686ae/"
+    },
+    {
+      "id": "f20f4e4ad79ca078",
+      "source": "remoteok",
+      "reference": null,
+      "title": "account manager mid market",
+      "company": "allego",
+      "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+      "apply": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+      "posted": "2026-10-15",
+      "remote": true,
+      "location": "waltham",
+      "salary": null,
+      "tags": [
+        "exec",
+        "saas",
+        "customer support",
+        "marketing",
+        "ops",
+        "sales",
+        "golang",
+        "go",
+        "account manager"
+      ],
+      "blurb": "Allego is a rapidly growing SaaS technology company in the Boston area and creator of the market-leading Revenue Enablement Platform. Our technology helps Go-To-Market teams build the skills and access the knowledge they need to succeed in every selling situation.",
+      "category": "support",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "restricted",
+        "places": [
+          "waltham"
+        ],
+        "raw": "Waltham"
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/f20f4e4ad79ca078/"
+    },
+    {
+      "id": "40ab714b4d4d5fa3",
+      "source": "remoteok",
+      "reference": null,
+      "title": "senior software engineer ii applied ai",
+      "company": "wrapbook",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "apply": "https://remoteOK.com/remote-jobs/remote-senior-software-engineer-ii-applied-ai-wrapbook-1137527",
+      "posted": "2026-10-15",
+      "remote": true,
+      "location": null,
+      "salary": null,
+      "tags": [
+        "dev",
+        "design",
+        "amazon",
+        "sys admin",
+        "backend",
+        "infosec",
+        "python",
+        "education",
+        "technical",
+        "customer support",
+        "accounting",
+        "payroll",
+        "javascript",
+        "finance",
+        "java",
+        "typescript",
+        "node",
+        "node.js",
+        "content writing",
+        "senior",
+        "ops",
+        "marketing",
+        "sales",
+        "medical",
+        "engineer",
+        "digital nomad",
+        "ai agents",
+        "llm",
+        "rag",
+        "aws"
+      ],
+      "blurb": "About Us:. Wrapbook is the AI platform for production finance. Weâre building a system of action that puts finance teams in control of their whole production, from payroll, to spend, to accounting.",
+      "category": "support",
+      "experience": "journeyman",
+      "applicant_location": {
+        "scope": "unknown",
+        "places": [],
+        "raw": null
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/40ab714b4d4d5fa3/"
+    },
+    {
+      "id": "79a979a8ebc02091",
+      "source": "remoteok",
+      "reference": null,
+      "title": "director us tax & accounting #35344",
+      "company": "manila recruitment",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+      "apply": "https://remoteOK.com/remote-jobs/remote-director-us-tax-accounting-35344-manila-recruitment-1137525",
+      "posted": "2026-10-15",
+      "remote": true,
+      "location": null,
+      "salary": null,
+      "tags": [
+        "exec",
+        "accounting",
+        "education",
+        "technical",
+        "customer support",
+        "dev",
+        "marketing",
+        "speech",
+        "finance",
+        "c",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "recruiter",
+        "full time",
+        "digital nomad",
+        "tax",
+        "compliance",
+        "partnerships"
+      ],
+      "blurb": "Company Profile:. Our client was founded to provide high quality professional & personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates. The company is a very fast-growing medium-sized accounting firm, allowing them to better serve individual business needs while helping clients save time and money.",
+      "category": "support",
+      "experience": "master",
+      "applicant_location": {
+        "scope": "unknown",
+        "places": [],
+        "raw": null
+      },
+      "first_seen": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "status": "open",
+      "seen_count": 1,
+      "page": "https://www.piperpiperpiper.com/jobs/79a979a8ebc02091/"
     }
   ]
 }
