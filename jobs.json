@@ -2,7 +2,7 @@
   "site": "https://www.piperpiperpiper.com",
   "about": "Curated remote jobs from registered sources. Each job keeps its source and a link back to the original post (url); page is this site's own listing page.",
   "schema_version": "v4",
-  "generated_at": "2026-10-18T18:53:00.749107",
+  "generated_at": "2026-10-18T19:03:28.998042",
   "window_days": 90,
   "total_jobs": 352,
   "jobs": [
@@ -2084,10 +2084,10 @@
       "remote": true,
       "location": "remote - abu dhabi",
       "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null,
+        "min": 11425,
+        "max": 12026,
+        "currency": "USD",
+        "period": "month",
         "original": {
           "raw": "AED 503500-530000",
           "currency": "AED",
@@ -5323,10 +5323,10 @@
       "remote": true,
       "location": "remote - uae",
       "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null,
+        "min": 11572,
+        "max": 11572,
+        "currency": "USD",
+        "period": "month",
         "original": {
           "raw": "AED 510000-510000",
           "currency": "AED",
@@ -9104,10 +9104,10 @@
       "remote": true,
       "location": "remote - abu dhabi",
       "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null,
+        "min": 13842,
+        "max": 13842,
+        "currency": "USD",
+        "period": "month",
         "original": {
           "raw": "AED 610000-610000",
           "currency": "AED",
@@ -9682,10 +9682,10 @@
       "remote": true,
       "location": "remote - uae",
       "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null,
+        "min": 9303,
+        "max": 9303,
+        "currency": "USD",
+        "period": "month",
         "original": {
           "raw": "AED 410000-410000",
           "currency": "AED",
@@ -10128,10 +10128,10 @@
       "remote": true,
       "location": "remote - abu dhabi",
       "salary": {
-        "min": null,
-        "max": null,
-        "currency": null,
-        "period": null,
+        "min": 16565,
+        "max": 16565,
+        "currency": "USD",
+        "period": "month",
         "original": {
           "raw": "AED 730000-730000",
           "currency": "AED",
