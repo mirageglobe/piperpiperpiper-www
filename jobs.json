@@ -2,7 +2,7 @@
   "site": "https://www.piperpiperpiper.com",
   "about": "Curated remote jobs from registered sources. Each job keeps its source and a link back to the original post (url); page is this site's own listing page.",
   "schema_version": "v6",
-  "generated_at": "2026-10-20T12:54:30.817851",
+  "generated_at": "2026-10-20T16:58:30.568803",
   "window_days": 60,
   "total_jobs": 752,
   "jobs": [
@@ -7663,7 +7663,7 @@
       "seen_count": 9,
       "summary": {
         "company": "At Curtins, we're an employee-owned engineering consultancy driven by a simple ambition: to create a better built environment for everyone.",
-        "role": ""
+        "role": "You will support the planning and development process, helping clients bring projects forward from initial concept through to planning approval. Your responsibilities will include:."
       },
       "company_id": "curtins",
       "page": "https://www.piperpiperpiper.com/jobs/b7c07e5cc39dc6c7/"
@@ -8092,7 +8092,7 @@
       "seen_count": 8,
       "summary": {
         "company": "Self Bill Pro is a rapidly growing startup dedicated to solving one of the most persistent challenges in the employee benefits ecosystem: the complexity of monthly benefits billing.",
-        "role": ""
+        "role": "Product Leadership: Partner with our global product manager to define, prioritize, and manage the product roadmap, ensuring it aligns with overall business objectives and our long-term technology vision."
       },
       "company_id": "self-bill-pro",
       "page": "https://www.piperpiperpiper.com/jobs/6853e9ebded3d071/"
@@ -8976,7 +8976,7 @@
       "seen_count": 7,
       "summary": {
         "company": "Our client was founded to provide high quality professional & personalized tax preparation, accounting and bookkeeping services for individuals, businesses, and non-profits at reasonable rates.",
-        "role": ""
+        "role": "As the PH accounting team continues to expand, you will also have the unique opportunity to make a meaningful impact and help shape the future direction of the team. Overall purpose and responsibilities of the role:."
       },
       "company_id": "manila-recruitment",
       "page": "https://www.piperpiperpiper.com/jobs/79a979a8ebc02091/"
@@ -9994,7 +9994,7 @@
       "seen_count": 6,
       "summary": {
         "company": "UtopiaÂ is an ultra-luxury hospitality and lifestyle brand creating a global ecosystem of properties and experiences.",
-        "role": ""
+        "role": "We are looking for a detail-oriented and motivated Payment Operations Specialist to join our finance team."
       },
       "company_id": "utopia",
       "page": "https://www.piperpiperpiper.com/jobs/ede15fb7256cb237/"
@@ -10823,7 +10823,7 @@
       "seen_count": 6,
       "summary": {
         "company": "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.",
-        "role": ""
+        "role": "You'll run onboarding, offboarding, and internal mobility day to day, resolve employee casework and route what belongs elsewhere, and manage immigration case logistics."
       },
       "company_id": "anchorage-digital",
       "page": "https://www.piperpiperpiper.com/jobs/37bf79126b21c69f/"
@@ -11186,7 +11186,7 @@
       "seen_count": 4,
       "summary": {
         "company": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster.",
-        "role": ""
+        "role": "Nitro is an AI-native data platform that democratizes life sciences data for non-technical commercial teams, turning fragmented HCP/HCO, prescription, and industry data into decisions the field can act on."
       },
       "company_id": "veeva-systems",
       "page": "https://www.piperpiperpiper.com/jobs/09ce8998d4b0a385/"
@@ -11225,7 +11225,7 @@
       "seen_count": 4,
       "summary": {
         "company": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster.",
-        "role": ""
+        "role": "Nitro is an AI-native data platform that democratizes life sciences data for non-technical commercial teams, turning fragmented HCP/HCO, prescription, and industry data into decisions the field can act on."
       },
       "company_id": "veeva-systems",
       "page": "https://www.piperpiperpiper.com/jobs/7b995562e601cd9c/"
@@ -13995,7 +13995,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "Not sure you’re exactly what we’re looking for in this role? Apply anyway!"
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/adccc110e126eb7d/"
@@ -14085,7 +14085,7 @@
       "seen_count": 6,
       "summary": {
         "company": "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.",
-        "role": ""
+        "role": "You will become intimately familiar with the operations of our clients and their use of our platform, anticipate their needs, and serve as an advocate for them internally."
       },
       "company_id": "anchorage-digital",
       "page": "https://www.piperpiperpiper.com/jobs/582f90d61b667746/"
@@ -18175,8 +18175,8 @@
       "status": "open",
       "seen_count": 8,
       "summary": {
-        "company": "",
-        "role": ""
+        "company": "Lemon.io connects hand-picked senior developers with vetted startups across the US and Europe — no bidding wars, no ghosting, just serious opportunities.",
+        "role": "You'll be working on infrastructure that directly shapes how AI gets built and deployed, at a company operating at the frontier of the field. Locations: the UK, Singapore, the US, and Canada."
       },
       "company_id": "lemon-io",
       "page": "https://www.piperpiperpiper.com/jobs/2e1a02df396195b6/"
@@ -22322,7 +22322,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "Own your pipeline from day one. You're not waiting for leads to land in your lap."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/4a2172d7a16b7e07/"
@@ -22626,7 +22626,7 @@
       "seen_count": 6,
       "summary": {
         "company": "At Anchorage Digital, we are building the world’s most advanced digital asset platform for institutions to participate in crypto.",
-        "role": ""
+        "role": "You will become intimately familiar with the operations of our clients and their use of our platform, anticipate their needs, and serve as an advocate for them internally in partnership with Client Experience teams."
       },
       "company_id": "anchorage-digital",
       "page": "https://www.piperpiperpiper.com/jobs/122e1f977ab8835c/"
@@ -28097,7 +28097,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "As Director, Sales Enablement, you'll own the function end to end: onboarding and ramp, ongoing skills development, the methodology we sell with, and the measurement that shows whether any of it worked."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/541ca6f31d8e4b3b/"
@@ -28951,7 +28951,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "As an Enterprise Account Executive at Sanity, you'll own the full sales cycle, from identifying the right prospects to closing deals with some of Europe's most ambitious companies."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/cccdea5018b45911/"
@@ -29283,7 +29283,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we're building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "Sanity is looking for a Senior Web & Digital Designer to join our Marketing team and help shape the next generation of Sanity’s web presence and digital experiences."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/1cacc8b6ac053af9/"
@@ -30275,7 +30275,7 @@
       "seen_count": 5,
       "summary": {
         "company": "Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends.",
-        "role": ""
+        "role": "The Solutions Team are technical experts that work directly with customers and partners to provide world-class product, sales, industry, and domain expertise."
       },
       "company_id": "ramp",
       "page": "https://www.piperpiperpiper.com/jobs/8198428b3cebbf2e/"
@@ -32564,7 +32564,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "We’re looking for an empathic senior support engineer who thrives on solving complex technical challenges and helping customers succeed with Sanity at scale."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/e605fa9527ecbfc4/"
@@ -32608,7 +32608,7 @@
       "seen_count": 5,
       "summary": {
         "company": "At Sanity.io , we’re building the future of AI-powered Content Operations.",
-        "role": ""
+        "role": "We’re looking for an empathic senior support engineer who thrives on solving complex technical challenges and helping customers succeed with Sanity at scale."
       },
       "company_id": "sanity",
       "page": "https://www.piperpiperpiper.com/jobs/d0a74c9190fade9f/"
