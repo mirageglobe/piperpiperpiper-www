@@ -13,5 +13,7 @@
 - Only recent jobs are listed (the feed states its window in `window_days`).
 - Fields that a source does not state are left empty or marked unknown, never guessed (for example `posted` is null and `applicant_location.scope` is "unknown").
 - `applicant_location` says who may apply; `location` says where the job sits.
+- `company_id` identifies the company; the same id means the same company, and a different id is not assumed to be the same company even with the same name.
+- `summary.company` and `summary.role` are a short paragraph each, taken from the posting; either may be empty.
 - `url` is the link back to the source board; credit the source when you reuse a listing.
 - Sitemap: https://www.piperpiperpiper.com/sitemap-index.xml
